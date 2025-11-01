@@ -2,7 +2,7 @@
 
 
 ## 👩‍💻 About Me
--🎓 **Computer Engineering Graduate** from 🇪🇬 Cairo, Egypt  
+-🎓 **Computer Engineering Fresh Graduate** from 🇪🇬 Cairo, Egypt  
 
 -💻 **Passionate about:** Problem Solving • Software Engineering • Cloud Computing • Automation
 
